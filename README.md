@@ -7,13 +7,13 @@ Welcome to my Data Science Portfolio! This repository serves as a comprehensive 
 - [Optimization](/Optimization/) 🛠️
 - [Prediction](/Prediction/) 🔍
 - [Clustering](/Clustering/) 📊
-- [Causal Inference](/Causal Inference/) 🧠
-- [Deep Learning](/Deep Learning/) 🤖
+- [Causal Inference](/Causal-Inference/) 🧠
+- [Deep Learning](/Deep-Learning/) 🤖
 - [Natural Language Processing (NLP) and Large Language Models (LLM)](/NLP-LLM/) ✍️
-- [Time Series Analysis](/Time Series/) ⏰
-- [Recommendation Systems](/Recommendation Systems/) 🎁
-- [Anomaly Detection](/Anomaly Detection/) 🚨
-- [Image Analysis](/Image Analysis/) 🖼️
-- [Data Visualization](/Data Visualization/) 📊
-- [Healthcare Analytics](/Healthcare Analytics/) :stethoscope:
-- [Social Network Analysis](/Social Network Analysis/) 👥
+- [Time Series Analysis](/Time-Series/) ⏰
+- [Recommendation Systems](/Recommendation-Systems/) 🎁
+- [Anomaly Detection](/Anomaly-Detection/) 🚨
+- [Image Analysis](/Image-Analysis/) 🖼️
+- [Data Visualization](/Data-Visualization/) 📊
+- [Healthcare Analytics](/Healthcare-Analytics/) :stethoscope:
+- [Social Network Analysis](/Social-Network-Analysis/) 👥
