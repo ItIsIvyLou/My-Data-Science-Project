@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio! This repository serves as a comprehensive 
 
 ## Table of Contents
 
-- [Optimization](#optimization) 🛠️
+- [Optimization](/My-Data-Science-Project/optimization/) 🛠️
 - [Prediction](#prediction) 🔍
 - [Clustering](#clustering) 📊
 - [Causal Inference](#causal-inference) 🧠
