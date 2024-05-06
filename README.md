@@ -15,5 +15,5 @@ Welcome to my Data Science Portfolio! This repository serves as a comprehensive 
 - [Anomaly Detection](/Anomaly-Detection/) 🚨
 - [Image Analysis](/Image-Analysis/) 🖼️
 - [Data Visualization](/Data-Visualization/) 📊
-- [Healthcare Analytics](/Healthcare-Analytics/) ⚕️
+- [Healthcare Analytics](/Healthcare-Analytics/) :stethoscope:
 - [Social Network Analysis](/Social-Network-Analysis/) 👥
